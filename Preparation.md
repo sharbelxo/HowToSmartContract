@@ -31,7 +31,7 @@ sudo apt-get install git
 ```
 
 ## Check-Up:  
-To make sure you have Node.js and Git installed successfuly on your system. Run the following in your terminal(Command Prompt).
+To make sure you have Node.js and Git installed successfully on your system. Run the following in your terminal (Command Prompt).
 ```
 node -v
 
