@@ -46,7 +46,7 @@ First, run the following statement in your terminal:
 ```
 npm install solc web3 mocha ganache-cli @truffle/hdwallet-provider
 ```
-Now, we are going to learn what each dependency is used for:  
+Now, we are going to learn what each dependency is:  
 ### solc:  
 
 solc.js is a Node.js library and command-line tool that is used to compile solidity files.  
