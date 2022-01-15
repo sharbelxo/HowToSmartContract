@@ -34,4 +34,11 @@ npm init
 insert pic  
 
 keep on clicking ENTER until the setup is done and no more questions are being asked.  
-The command we just used, created a ```Package.json``` file in our folder, this file will be a placeholder for all the settings and dependencies we install and use in our project.
+The command we just used, created a ```Package.json``` file in our folder, this file will be a placeholder for all the settings and dependencies we install and use in our project.  
+## Installing Dependencies:
+We are going to install the dependencies needed for the project and learn what each one of them does.  
+First, run the following statement in your terminal:  
+(make sure you are in the same directoey)
+```
+npm install solc web3 mocha ganache-cli @truffle/hdwallet-provider
+```
