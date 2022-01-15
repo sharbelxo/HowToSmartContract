@@ -6,7 +6,7 @@ You can do that, simply, by creating a new folder on your Desktop or anywhere yo
 
 ## Tip:  
 Instead of creating a new folder manually like this:  
-insert pic
+insert pic  
 You can create a folder using your Command Prompt.  
 First, you move to your Desktop by running:
 ```
@@ -25,3 +25,12 @@ On the same Command Prompt window, we will move into the folder by running:
 ```
 cd MyFirstSmartContract
 ```
+Next, we are going to use the command ```npm``` made available to us to use when we downloaded Node.js  
+
+We are going to start setting up this mini-project by running the following, in the Command Prompt:  
+```
+npm init
+```
+insert pic  
+
+keep on clicking ENTER until the setup is done and no more questions are being asked.
