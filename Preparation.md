@@ -12,7 +12,7 @@ We do not recommend installing the Current release as this often will include bu
 You will also need to have Git installed on your system.
 
 ### Windows Users:
-Install Git For Windows using the link below. This will also install the GitBash terminal which is helpful as it will allow you to type the same commands as shown in the tutorial. GitBash would replace the use of the CommandPrompt or Powershell.  
+Install Git For Windows using the link below. This will also install the GitBash terminal which is helpful as it will allow you to type the same commands as shown in the tutorial. GitBash would replace the use of the Command Prompt or Powershell.  
 
 https://git-scm.com/download/win  
 
