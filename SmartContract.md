@@ -40,6 +40,7 @@ Now, open Visual Studio Code that we downloaded at the beginning of the tutorial
 
 You should have something like this:  
 
+![contract](https://user-images.githubusercontent.com/72712113/149638248-08ad42ff-971b-4417-8256-85e6fc0b444b.png)
 
 Now that we have our contract ready, we need to prepare the files needed to compile, test, amnd deploy our Smart Contract.
 
