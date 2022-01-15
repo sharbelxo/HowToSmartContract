@@ -32,4 +32,6 @@ This above, is what a simple Smart Contract looks like. First, we have the ```//
 We start writing our contract with the statement ```contract Name```. As you can see, the name of the contract, ironically, is ```Name```. We have a string variable ```name``` which we will create a setter and getter methods for. The getter method is ```getName()``` and we label it as a public method since in Solidity, variables and methods are automatically put as private. Moreover,  we could have made the string ```name``` public and in Solidity, labeling it as public automatically makes it gettable without a seperate method.  
 Anywho, this getter method will return a string, the ```name``` variable we created previously. We put it as ```memory``` because much like RAM, memory in Solidity is a temporary place to store data whereas ```storage``` holds data between function calls. The Solidity Smart Contract can use any amount of memory during the execution but once the execution stops, the memory is completely wiped off for the next execution.  
 
-Moreover, the setter method is used to set a name, it is also given a string memory that we called ```_name``` (You can call it anything you want). This method is also public and will set the ```string name``` to the name provided.
+Moreover, the setter method is used to set a name, it is also given a string memory that we called ```_name``` (You can call it anything you want). This method is also public and will set the ```string name``` to the name provided.  
+
+Now, open 
