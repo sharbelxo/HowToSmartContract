@@ -44,7 +44,14 @@ npm install solc web3 mocha ganache-cli @truffle/hdwallet-provider
 ```
 Now, we are going to learn what each dependency is used for:  
 ### solc
+solcjs is a Node.js library and command-line tool that is used to compile solidity files.  
+
+Soldidity is an object-oriented, high-level programming language we are going to use to write/implement our Smart Contract.
+
 ### web3
 ### mocha
 ### ganache-cli
 ### @truffle/hdwallet-provider
+
+
+Update your test script in the package.json file to be "test": "mocha"
