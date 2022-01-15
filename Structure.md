@@ -45,11 +45,18 @@ npm install solc web3 mocha ganache-cli @truffle/hdwallet-provider
 Now, we are going to learn what each dependency is used for:  
 ### solc:  
 
-solcjs is a Node.js library and command-line tool that is used to compile solidity files.  
+solc.js is a Node.js library and command-line tool that is used to compile solidity files.  
 Solidity is an object-oriented, high-level programming language we are going to use to write/implement our Smart Contract.
 
-### web3:
+### web3:  
+
+web3.js is a collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
+
 ### mocha:
+
+Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun.
+We are going to use mocha when testing our Smart Contract.  
+
 ### ganache-cli:
 ### @truffle/hdwallet-provider:
 
