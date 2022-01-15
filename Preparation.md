@@ -1,5 +1,5 @@
 # Preparations & Installations
-Before we start this step by step tutorial, you need to make sure you install Node.js and Git.  
+Before we start this step-by-step tutorial, make sure you install Node.js and Git.  
 
 ## Installing Node.js
 Please make sure you have installed the LTS (Long Term Support) version of Node.js: 
