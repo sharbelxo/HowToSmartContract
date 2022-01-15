@@ -24,8 +24,10 @@ Lets say you named it MyFirstSmartContract.
 On the same Command Prompt window, we will move into the folder by running:  
 ```
 cd MyFirstSmartContract
-```
-
+```  
+## Summary
+![folder](https://user-images.githubusercontent.com/72712113/149627081-ace46ad2-0ff4-4ed3-9167-c16e188396ff.png)  
+##
 Next, we are going to use the command ```npm``` made available to us to use when we downloaded Node.js  
 
 We are going to start setting up this mini-project by running the following, in the Command Prompt:  
