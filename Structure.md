@@ -33,4 +33,5 @@ npm init
 ```
 insert pic  
 
-keep on clicking ENTER until the setup is done and no more questions are being asked.
+keep on clicking ENTER until the setup is done and no more questions are being asked.  
+The command we just used, created a Package.json file in our folder, this file will be a placeholder for all the settings and dependencies we install and use in our project.
