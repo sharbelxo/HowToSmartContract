@@ -5,9 +5,9 @@ The first thing we want to do, is to create a directory or folder, where our cod
 You can do that, simply, by creating a new folder on your Desktop or anywhere you want. For the sake of this tutorial, we will be creating the folder on our Desktop. 
 
 ## Tips  
-Instead of creating a new folder manually like this:  
-insert pic  
-You can create a folder using your Command Prompt.  
+Instead of creating a new folder manually from your Desktop,
+you can create a folder using your Command Prompt. Open your Command Prompt and follow along.  
+
 First, you move to your Desktop by running:
 ```
 cd Desktop
@@ -25,6 +25,7 @@ On the same Command Prompt window, we will move into the folder by running:
 ```
 cd MyFirstSmartContract
 ```
+
 Next, we are going to use the command ```npm``` made available to us to use when we downloaded Node.js  
 
 We are going to start setting up this mini-project by running the following, in the Command Prompt:  
