@@ -1,6 +1,6 @@
 # Structure
 
-The first thing we want to do, is to create a directory or folder, where our code and files will be placed.  
+The first thing we want to do is to create a directory or folder where our code and files will be placed.  
 
 You can do that, simply, by creating a new folder on your Desktop or anywhere you want. For the sake of this tutorial, we will be creating the folder on our Desktop. 
 
