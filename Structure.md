@@ -82,7 +82,7 @@ to ```"test": "mocha"```
 
 Your Package.json file should look like this:  
 
-insert pic  
+![dependencies](https://user-images.githubusercontent.com/72712113/149627533-90510b24-6cc5-4f0d-a117-ab8de3300a42.png)  
 
 DO NOT worry if the versions of the dependencies are different are higher/newer than the ones you see in the picture above. It would be just because those libraries get updated a lot.
 
