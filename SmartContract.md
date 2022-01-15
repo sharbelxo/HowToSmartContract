@@ -38,6 +38,9 @@ Moreover, the setter method is used to set a name, it is also given a string mem
 
 Now, open Visual Studio Code that we downloaded at the beginning of the tutorial. Then, click ```Open Folder``` and choose the folder we created on our desktop and click ```Select Folder```. Now, create another folder and call it ```contracts```. Then right click on it and create a new file and call it ```Name.sol```. Inside that file, paste all the code we have written on Remix IDE and save it either manually or by clicking ```ctrl + s```.  
 
+You should have something like this:  
+
+
 Now that we have our contract ready, we need to prepare the files needed to compile, test, amnd deploy our Smart Contract.
 
 See you there! 
