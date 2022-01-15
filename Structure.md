@@ -34,9 +34,9 @@ We are going to start setting up this mini-project by running the following, in 
 ```
 npm init
 ```
-insert pic  
 
 keep on clicking ENTER until the setup is done and no more questions are being asked.  
+
 The command we just used, created a ```Package.json``` file in our folder, this file will be a placeholder for all the settings and dependencies we install and use in our project.  
 ## Installing Dependencies:
 We are going to install the dependencies needed for the project and learn what each one of them does. We are installing these inside this folder (since we used cd MyFirstSmartContract to move into the project). And that is why you need to reinstall them if you create another project in another folder later on in the future.
@@ -79,5 +79,7 @@ However, we have to edit the "test" attribute by changing it
 from ```"test": "echo \"Error: no test specified\" && exit 1"```  
 
 to ```"test": "mocha"```
+
+Your Package.json file should look like this. (except the versions of the dependencies which could be higher depending on the time your doing this tutorial)
 
 After that, save the file.
