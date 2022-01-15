@@ -11,7 +11,7 @@ We do not recommend installing the Current release as this often will include bu
 ## Installing Git
 You will also need to have Git installed on your system.
 
-### Windows User:
+### Windows Users:
 Install Git For Windows using the link below. This will also install the GitBash terminal which is helpful as it will allow you to type the same commands as shown in the tutorial. GitBash would replace the use of the CommandPrompt or Powershell.  
 
 https://git-scm.com/download/win  
