@@ -4,7 +4,7 @@ The first thing we want to do, is to create a directory or folder, where our cod
 
 You can do that, simply, by creating a new folder on your Desktop or anywhere you want. For the sake of this tutorial, we will be creating the folder on our Desktop. 
 
-## Tip:  
+## Tips  
 Instead of creating a new folder manually like this:  
 insert pic  
 You can create a folder using your Command Prompt.  
@@ -43,15 +43,15 @@ First, run the following statement in your terminal:
 npm install solc web3 mocha ganache-cli @truffle/hdwallet-provider
 ```
 Now, we are going to learn what each dependency is used for:  
-### solc
+### solc:  
+
 solcjs is a Node.js library and command-line tool that is used to compile solidity files.  
+Solidity is an object-oriented, high-level programming language we are going to use to write/implement our Smart Contract.
 
-Soldidity is an object-oriented, high-level programming language we are going to use to write/implement our Smart Contract.
-
-### web3
-### mocha
-### ganache-cli
-### @truffle/hdwallet-provider
+### web3:
+### mocha:
+### ganache-cli:
+### @truffle/hdwallet-provider:
 
 
 Update your test script in the package.json file to be "test": "mocha"
