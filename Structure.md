@@ -70,8 +70,11 @@ We are going to see a mnemonic later in the tutorial.
 
 ##
 After we have installed all the dependencies, we can now open the Package.json file in our folder and the dependencies will all be there.  
+
 However, we have to edit the "test" attribute by changing it  
 
 from ```"test": "echo \"Error: no test specified\" && exit 1"```  
 
 to ```"test": "mocha"```
+
+After that, save the file.
