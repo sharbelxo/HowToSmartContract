@@ -87,4 +87,4 @@ Your Package.json file should look like this:
 
 DO NOT worry if the versions of the dependencies are higher/newer than the ones you see in the picture above. It would be just because those libraries get updated a lot.
 
-Finally, save the file.
+Finally, save the file. :grinning:
