@@ -80,6 +80,10 @@ from ```"test": "echo \"Error: no test specified\" && exit 1"```
 
 to ```"test": "mocha"```
 
-Your Package.json file should look like this. (except the versions of the dependencies which could be higher depending on the time your doing this tutorial)
+Your Package.json file should look like this:  
 
-After that, save the file.
+insert pic  
+
+DO NOT worry if the versions of the dependencies are different are higher/newer than the ones you see in the picture above. It would be just because those libraries get updated a lot.
+
+Finally, save the file.
