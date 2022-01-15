@@ -6,7 +6,7 @@ Please make sure you have installed the LTS (Long Term Support) version of Node.
 
 https://nodejs.org/en/download/  
 
-We do not recommend installing the Current release as this often will include bugs or breaking changes that many libraries may not have fully resolved. When you install Node.js it will automatically install npm which is a CLI tool that we will use frequently throughout this tutorial.
+I do not recommend installing the Current release as this often will include bugs or breaking changes that many libraries may not have fully resolved. When you install Node.js it will automatically install npm which is a CLI tool that we will use frequently throughout this tutorial.
 
 ## Installing Git
 You will also need to have Git installed on your system.
