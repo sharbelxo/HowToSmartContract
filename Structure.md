@@ -8,7 +8,7 @@ You can do that, simply, by creating a new folder on your Desktop or anywhere yo
 Instead of creating a new folder manually like this:  
 insert pic
 You can create a folder using your Command Prompt.  
-First, you (go) to your Desktop by running:
+First, you move to your Desktop by running:
 ```
 cd Desktop
 ```
@@ -17,10 +17,11 @@ After that, you run:
 mkdir FOLDER_NAME
 ```
 Of course, instead of FOLDER_NAME, write the name of the folder you want to create.  
+##
 
 Lets say you named it MyFirstSmartContract.  
 
-On the same Command Prompt window, we will (go) the folder by running:  
+On the same Command Prompt window, we will move into the folder by running:  
 ```
 cd MyFirstSmartContract
 ```
