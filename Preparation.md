@@ -1,5 +1,5 @@
 # Preparations & Installations
-Before we start this step-by-step tutorial, make sure you install Node.js and Git.  
+Before we start this step-by-step tutorial, make sure you install Node.js and Git. Also, you need to download Visual Studio Code or any other IDE you are comfortable with.  
 
 ## Installing Node.js
 Please make sure you have installed the LTS (Long Term Support) version of Node.js: 
@@ -29,6 +29,13 @@ sudo apt-get update
 
 sudo apt-get install git
 ```
+
+## Visual Studio Code  
+
+Use this link to download VS Code:  
+
+https://code.visualstudio.com/download  
+
 
 ## Check-Up:  
 To make sure you have Node.js and Git installed successfully on your system. Run the following in your terminal.
