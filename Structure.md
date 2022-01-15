@@ -58,7 +58,18 @@ Mocha is a feature-rich JavaScript test framework running on Node.js and in the 
 We are going to use mocha when testing our Smart Contract.  
 
 ### ganache-cli:
+
+Ganache is a personal blockchain for rapid Ethereum and Corda distributed application development. You can use Ganache across the entire development cycle; enabling you to develop, deploy, and test your dApps in a safe and deterministic environment.  
+
+The command-line tool, ganache-cli (formerly known as the TestRPC), is available for Ethereum development.  
+
 ### @truffle/hdwallet-provider:
 
+HD Wallet-enabled Web3 provider. We use it to sign transactions for addresses derived from a 12 or 24 word mnemonic.  
+We are going to see a mnemonic later in the tutorial.  
 
-Update your test script in the package.json file to be "test": "mocha"
+##
+After we have installed all the dependencies, we can now open the Package.json file in our folder and the dependencies will all be there.  
+However, we have to edit the "test" attribute by changing it  
+from ```"test": "echo \"Error: no test specified\" && exit 1"```  
+to ```"test": "mocha"```
