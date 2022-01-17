@@ -56,8 +56,7 @@ In the output of the terminal, what we care about is the object/property called 
 
 If you scroll up in your terminal output, you will see the Bytecode and ABI we just talked about. It should look something like this:  
 
-insert pic
-insert pic
+![abi](https://user-images.githubusercontent.com/72712113/149829709-93667069-008d-45d9-946c-c939cf6b4e9b.png)
 
 After that, to make this compilation code we did, we need to make this big compile object available to be used from other files in the projects. We do that be editing the last line of code to become like this:
 
