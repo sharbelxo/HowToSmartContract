@@ -65,4 +65,4 @@ After that, to make this compilation code we did, we need to make this big compi
 module.exports = JSON.parse(solc.compile(JSON.stringify(input))).contracts['Name.sol'].Name;
 ```
 
-Save your file and you just locally compiled your first Smart Contract! :happy:
+Save your file and you just locally compiled your first Smart Contract! :boom:
