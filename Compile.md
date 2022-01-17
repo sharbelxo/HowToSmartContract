@@ -58,6 +58,8 @@ If you scroll up in your terminal output, you will see the Bytecode and ABI we j
 
 ![abi](https://user-images.githubusercontent.com/72712113/149829709-93667069-008d-45d9-946c-c939cf6b4e9b.png)
 
+![bytecode](https://user-images.githubusercontent.com/72712113/149829793-5c95d8ca-9324-496b-a860-c8cb2737b801.png)
+
 After that, to make this compilation code we did, we need to make this big compile object available to be used from other files in the projects. We do that be editing the last line of code to become like this:
 
 ```
