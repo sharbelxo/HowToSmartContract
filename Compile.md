@@ -48,9 +48,9 @@ After pasting the above, we will now be able to interact with our blockchain nod
 node compile.js
 ```
 
-You should see something close to this to make sure you're on the right track:
-insert pic  
+You should see something close to this to make sure you're on the right track:  
 
+![goodToGoSS](https://user-images.githubusercontent.com/72712113/149829620-2cdcd818-828a-4d62-84af-644593db451c.png)
 
 In the output of the terminal, what we care about is the object/property called ```bytecode``` which we will deploy on an Ethereum network. Another important property is the ```ABI``` (Application Binary Interface) which will be our communication layer to the JavaScript world and front-end world. As you can see in the ABI, it has the functions and variables we have in our Contract.
 
