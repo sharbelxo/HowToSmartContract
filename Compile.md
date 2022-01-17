@@ -21,4 +21,4 @@ The path module will help us build a path from the ```compile.js``` file to the 
 
 Now we need to read the raw source code of our contract. That is why we create the constant ```source```. It takes as a parameter, the path ```namePath``` and the type of encoding which is UTF-8.
 
-Now, we need to write the compile statement fro the Solidity compiler. First, we get the ```solc``` module just like the 3rd line of code. Next,
+Now, we need to write the compile statement fro the Solidity compiler. First, we get the ```solc``` module just like the 3rd line of code. To compile the raw source code of our contract, we will extract it and put give it as input to the ```compile``` method. That is why we will have this ```input``` constant that will contain the source and then we will feed it to the ```compile``` method. After that we will try to see it in the terminal just to make sure our work is correct before compiling it officially. That is why we will wrap it up in a ```console.log(...)```.
