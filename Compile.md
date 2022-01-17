@@ -17,5 +17,8 @@ const source = fs.readFileSync(namePath, 'utf8');
 The compile file is written in JavaScript and hence, the chage in syntax.  
 
 In the first 3 lines of code we are creating 3 constants where we require the 3 modules: path, fs, solc.  
-The path module will help us build a path from the ```compile.js``` file to the ```Name.sol``` file we created earlier. We use this path module so that we get cross-platform compatibility (Linux, Windows, macOS). To make this path, we write the ```namePath``` constant as written above. The attribute ```__dirname``` takes us from the root directory of our computer to the directory "MyFirstSmartContract".  
+The path module will help us build a path from the ```compile.js``` file to the ```Name.sol``` file we created earlier. We use this path module so that we get cross-platform compatibility (Linux, Windows, macOS). To generate this path, we write the ```namePath``` constant as written above. The paramater ```__dirname``` takes us from the root directory of our computer to the directory "MyFirstSmartContract".  
 
+Now we need to read the raw source code of our contract. That is why we create the constant ```source```. It takes as a parameter, the path ```namePath``` and the type of encoding which is UTF-8.
+
+Now, we need to write the compile statement fro the Solidity compiler. First, we get the ```solc``` module just like the 3rd line of code. Next,
