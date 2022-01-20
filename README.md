@@ -14,7 +14,7 @@ Blockchains such as Bitcoin and Ethereum are constantly and continually growing 
 
 ![criptomonedas-blockchain](https://user-images.githubusercontent.com/72712113/150333827-1e929253-3d62-4355-9322-ce0a4d736e53.jpg)
 
-Ethereum is a decentralized, open-source blockchain with smart contract functionality. Ether is the native cryptocurrency of the platform. One main difference between Ethereum and Bitcoin is that Ethereum has Smart Contracts. Smart Contracts are the logic layer that allows developers to run code using the programming language called Solidity.  
+Ethereum is a decentralized, open-source blockchain with smart contract functionality. Ether is the native cryptocurrency of the platform. One main difference between Ethereum and Bitcoin is that Ethereum has Smart Contracts. Smart Contracts are the logic layer that allows developers to run code using a programming language called Solidity.  
 
 A "smart contract" is simply a program that runs on the Ethereum blockchain. It's a collection of code (its functions) and data (its state) that resides at a specific address on the Ethereum blockchain.  
 
