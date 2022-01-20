@@ -22,3 +22,4 @@ Smart contracts are a type of Ethereum account. This means they have a balance a
 
 To get things started, follow the tutorial step-by-step. Skipping any line of text or part of the tutorial might result in errors.  
 
+First, we will start with the [Preparation] where you will download and install all the tools needed for this tutorial. Next, you will learn the [Structure] of the tutorial and what our project directory will look like. After that,
