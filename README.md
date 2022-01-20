@@ -27,4 +27,4 @@ First, we will start with the [preparations & installations](https://github.com/
 Feel free to issue your concerns and problems you face while doing this tutorial. I will ake sure I answer all your questions and fix what is needed for this mini-course to stay up-to-date.
 
 ![celebrations-1](https://media.giphy.com/media/fA81FF4mdE6lgeoJwb/giphy.gif)
-![celebrations-2](https://giphy.com/clips/theoffice-the-office-peacock-tv-show-G96zgIcQn1L2xpmdxi)
+![celebrations-2](https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif)
