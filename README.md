@@ -22,6 +22,6 @@ Smart contracts are a type of Ethereum account. This means they have a balance a
 
 To get things started, follow the tutorial step-by-step. Skipping any line of text or part of the tutorial might result in errors.  
 
-First, we will start with the [Preparation] where you will download and install all the tools needed for this tutorial. Next, you will learn the [Structure] of the tutorial and what our project directory will look like. After that, you will write your first [Smart Contract] and add it to the project folder. When you finish writing your Smart Contract, you will [Compile] it and [Test] it. When you finish testing, you will create a [MetaMask] account that you will need to [Deploy] your Smart Contract.  
+First, we will start with the [Preparation](1. Preparation.md) where you will download and install all the tools needed for this tutorial. Next, you will learn the [Structure](2. Structure.md) of the tutorial and what our project directory will look like. After that, you will write your first [Smart Contract](3. Smart Contract.md) and add it to the project folder. When you finish writing your Smart Contract, you will [Compile](4. Compile.md) it and [Test](5. Test.md) it. When you finish testing, you will create a [MetaMask](6. Metamask.md) account that you will need to [Deploy](7. Deploy.md) your Smart Contract.  
 
 Feel free to issue your concerns and problems you face while doing this tutorial. I will ake sure I answer all your questions and fix what is needed for this mini-course to stay up-to-date.
